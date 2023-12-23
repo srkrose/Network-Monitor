@@ -12,5 +12,5 @@ logdate=$(date +"%Y-%m-%d")
 time=$(date +"%F_%T")
 date=$(date +"%F")
 validation="..."
-emailng="test@domain.com"
+emailng="test@domain.tld"
 networkslack="https://hooks.slack.com/..."
